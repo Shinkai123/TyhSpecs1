@@ -29,6 +29,7 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
   spec.dependency 'CTMediator'
+  spec.dependency 'Alamofire'
 
 
 
